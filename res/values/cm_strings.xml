@@ -24,4 +24,11 @@
     <!-- Context Menu item to open the currently selected link in a new
          background window. [CHAR LIMIT=50] -->
     <string name="contextmenu_openlink_incognito_newwindow_background">Open in new incognito background tab</string>
+
+    <!-- Permission check -->
+    <string name="permission_not_granted_dialog_title">Permission not granted</string>
+    <string name="permission_not_granted_dialog_message">The permission to write to external storage was not granted. Cannot download.</string>
+    <string name="browser_error_title">Browser error</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
 </resources>
